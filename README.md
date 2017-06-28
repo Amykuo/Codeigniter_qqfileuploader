@@ -1,0 +1,2 @@
+# Codeigniter_qqfileuploader
+implement qqfileuploader in codeigniter
